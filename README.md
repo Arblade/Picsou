@@ -1,6 +1,6 @@
 # Picsou
 
-Ce projet propose de lancer un robot prédicteur de cours marchés financiers.
+Ce projet propose de lancer un robot prédicteur de cours de marchés financiers.
 
 ## Etapes
 
